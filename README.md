@@ -2,7 +2,7 @@
 
 ## Overview
 
-This notebook contains an implementation of an intraday pairs trading strategy applied to the brazilian market, from downloading the required data, selecting pairs of stocks through several statistical criteria, running a series of backtests simulations on a test period, to finally evaluating the results using a few different measures and techniques.
+This repository contains an implementation of an intraday pairs trading strategy applied to the brazilian market, from downloading the required data, selecting pairs of stocks through several statistical criteria, running a series of backtests simulations on a test period, to finally evaluating the results using a few different measures and techniques.
 
 Please refer to the intraday_pairs_trading notebook for an overview and outcomes of the whole process.
 
@@ -36,10 +36,9 @@ The whole project is coded using Python language.
 - intraday_pairs_trading.ipynb: Provides a complete overview of the project, implementation and analysis of the results.
         
 ## Notes
----
 
-- This project's complete analysis of results is presented in the repository's notebook. For re-running the project with different inputs, the python modules and notebook should be placed in the same directory.
-- The data collected in this project is from MetaTrader5. Many brokers offer access to this plataform for free, so it is just necessary to have an account in any of these brokers and download the plataform, which can be easily done online.
+- The project's complete analysis of results is presented in the repository's notebook. For re-running all steps with different inputs, the python modules and notebook should be placed in the same directory.
+- The input data required for the project is collected from MetaTrader5. Many brokers offer access to this plataform for free, so it is just necessary to have an account in any of these brokers and download the plataform, which can be easily done online.
 
 ## Requirements
 
