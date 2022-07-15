@@ -1,4 +1,4 @@
-# Intraday-Pairs-Traading-Strategy
+# Intraday-Pairs-Trading-Strategy
 
 ## Overview
 
