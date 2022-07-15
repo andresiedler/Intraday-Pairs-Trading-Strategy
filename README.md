@@ -1,14 +1,12 @@
 # Intraday-Pairs-Traading-Strategy
 
 ## Overview
----
 
 This notebook contains an implementation of an intraday pairs trading strategy applied to the brazilian market, from downloading the required data, selecting pairs of stocks through several statistical criteria, running a series of backtests simulations on a test period, to finally evaluating the results using a few different measures and techniques.
 
 Please refer to the intraday_pairs_trading notebook for an overview and outcomes of the whole process.
 
 ## Code Organization
----
 
 The whole project is coded using Python language.  
 
@@ -44,7 +42,6 @@ The whole project is coded using Python language.
 - The data collected in this project is from MetaTrader5. Many brokers offer access to this plataform for free, so it is just necessary to have an account in any of these brokers and download the plataform, which can be easily done online.
 
 ## Requirements
----
 
 - backtrader==1.9.76.123
 - jupyterthemes==0.20.0
@@ -61,6 +58,5 @@ The whole project is coded using Python language.
 - yfinance==0.1.70
 
 ## Install
----
 
 <mark style="background-color: lightgrey">pip install -r requirements.txt</mark>
